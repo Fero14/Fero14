@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola buenas
 
 # 💫 About Me:
 Actualmente estoy estudiando<br>Estoy aprendiendo a desplegar aplicaciones web<br>Como principal objetivo tengo seguir aprendiendo lenguajes<br>y herramientas que considero útiles<br>
