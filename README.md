@@ -1,10 +1,9 @@
-## Hola buenas
 
-# 💫 About Me:
+# Sobre mí:
 Actualmente estoy estudiando<br>Estoy aprendiendo a desplegar aplicaciones web<br>Como principal objetivo tengo seguir aprendiendo lenguajes<br>y herramientas que considero útiles<br>
 
 
-## 🌐 Socials:
+## Mis redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lobera_fer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferpin12g@gmail.com) 
 
 # 💻 Tech Stack:
